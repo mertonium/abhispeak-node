@@ -1,0 +1,15 @@
+
+{
+  "name":"abhispeak",
+  "version":"0.0.1",
+  "description":"Finally, lorem ipsum worth reading.",
+  "keywords":["lorem","ipsum","lipsum","filler","text"],
+  "homepage":"http://mertonium.com",
+  "author":"John Mertens <john@mertonium.com> (http://mertonium.com)",
+  "repository":{ "type" : "git", "url" : "http://github.com/mertonium/aphilipsum-node.git" },
+  "dependencies": {
+    "underscore" : "1.1.7"
+  },
+  "engines" : { "node" : ">=0.4.7" },
+  "main":"lib/abhispeak.js"
+}
