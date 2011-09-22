@@ -6,7 +6,7 @@
   "keywords":["lorem","ipsum","lipsum","filler","text"],
   "homepage":"http://mertonium.com",
   "author":"John Mertens <john@mertonium.com> (http://mertonium.com)",
-  "repository":{ "type" : "git", "url" : "http://github.com/mertonium/aphilipsum-node.git" },
+  "repository":{ "type" : "git", "url" : "http://github.com/mertonium/abhispeak-node.git" },
   "dependencies": {
     "underscore" : "1.1.7"
   },
