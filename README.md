@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/mertonium/abhispeak-node.png)](http://travis-ci.org/mertonium/abhispeak-node)
 # AbhiSpeak, a node.js wrapper for Abhi Ipsum
 _Finally, lorem ipsum worth reading._
 
